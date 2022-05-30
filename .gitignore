@@ -7,6 +7,10 @@
 node_modules/
 dist/
 
+# MS word documents
+*.doc
+*.docx
+
 # Compiled Java class files
 *.class
 
