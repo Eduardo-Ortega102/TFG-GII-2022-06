@@ -1,0 +1,42 @@
+﻿;serie;Capa Intermedia;Bottleneck;MCC
+promedio;1.1% anomalías, Senoidal Simple ;20;15;0,7455806787054267
+promedio;1.1% anomalías, Senoidal Simple (ruido 2.5%);15;5;0,7418562401799825
+promedio;1.1% anomalías, Senoidal Simple (ruido 5%);15;10;0,724438057700828
+promedio;1.1% anomalías, Senoidal Simple (ruido 10%);15;5;0,6969663719899923
+promedio;1.1% anomalías, Senoidal Simple (ruido 20%);15;5;0,6551722612391769
+promedio;2% anomalías, Senoidal Simple ;25;15;0,4583626641289038
+promedio;2% anomalías, Senoidal Simple (ruido 2.5%);25;15;0,4583626641289038
+promedio;2% anomalías, Senoidal Simple (ruido 5%);25;15;0,4583626641289038
+promedio;2% anomalías, Senoidal Simple (ruido 10%);25;15;0,4583626641289038
+promedio;2% anomalías, Senoidal Simple (ruido 20%);20;5;0,4548341480584976
+promedio;1.1% anomalías, Senoidal Combinada ;25;15;0,6721082245811654
+promedio;1.1% anomalías, Senoidal Combinada (ruido 2.5%);25;15;0,6721082245811654
+promedio;1.1% anomalías, Senoidal Combinada (ruido 5%);20;10;0,669814240404894
+promedio;1.1% anomalías, Senoidal Combinada (ruido 10%);15;10;0,6407960067490913
+promedio;1.1% anomalías, Senoidal Combinada (ruido 20%);25;5;0,5979022552754297
+promedio;2% anomalías, Senoidal Combinada ;25;15;0,4789333631536784
+promedio;2% anomalías, Senoidal Combinada (ruido 2.5%);25;15;0,4772459659124271
+promedio;2% anomalías, Senoidal Combinada (ruido 5%);25;15;0,4783864876940038
+promedio;2% anomalías, Senoidal Combinada (ruido 10%);25;10;0,4785161977971406
+promedio;2% anomalías, Senoidal Combinada (ruido 20%);25;10;0,4428985378009276
+mejor caso;1.1% anomalías, Senoidal Simple ;25;15;1,0
+mejor caso;1.1% anomalías, Senoidal Simple (ruido 2.5%);15;5;0,973907481209702
+mejor caso;1.1% anomalías, Senoidal Simple (ruido 5%);20;15;0,9301362419856491
+mejor caso;1.1% anomalías, Senoidal Simple (ruido 10%);20;5;0,8516306272526402
+mejor caso;1.1% anomalías, Senoidal Simple (ruido 20%);20;10;0,7618750937272757
+mejor caso;2% anomalías, Senoidal Simple ;25;15;0,6671823605610294
+mejor caso;2% anomalías, Senoidal Simple (ruido 2.5%);25;15;0,6671823605610294
+mejor caso;2% anomalías, Senoidal Simple (ruido 5%);25;15;0,6671823605610294
+mejor caso;2% anomalías, Senoidal Simple (ruido 10%);25;15;0,6671823605610294
+mejor caso;2% anomalías, Senoidal Simple (ruido 20%);15;5;0,6594933713460016
+mejor caso;1.1% anomalías, Senoidal Combinada ;25;15;0,9170109546287278
+mejor caso;1.1% anomalías, Senoidal Combinada (ruido 2.5%);25;15;0,9170109546287278
+mejor caso;1.1% anomalías, Senoidal Combinada (ruido 5%);25;15;0,9170109546287278
+mejor caso;1.1% anomalías, Senoidal Combinada (ruido 10%);20;5;0,8489808675530334
+mejor caso;1.1% anomalías, Senoidal Combinada (ruido 20%);20;5;0,7332664670876445
+mejor caso;2% anomalías, Senoidal Combinada ;25;15;0,7056345559952193
+mejor caso;2% anomalías, Senoidal Combinada (ruido 2.5%);25;15;0,7056345559952193
+mejor caso;2% anomalías, Senoidal Combinada (ruido 5%);25;15;0,7056345559952193
+mejor caso;2% anomalías, Senoidal Combinada (ruido 10%);25;5;0,7056345559952193
+mejor caso;2% anomalías, Senoidal Combinada (ruido 20%);20;5;0,6642021070715108
+general;general;25;10;0,5710784196760609

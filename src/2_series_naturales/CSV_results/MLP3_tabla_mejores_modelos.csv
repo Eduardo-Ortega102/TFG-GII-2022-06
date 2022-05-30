@@ -1,0 +1,14 @@
+﻿;serie;Capa 1;Capa 2;Dropout;MCC
+promedio;Grillo-Ballena, 1%;25;5;0,2;0,5963103764403735
+promedio;Grillo-Ballena, 2%;25;10;0,2;0,6311139221190152
+promedio;Grillo-Ballena, 3%;25;15;0,2;0,4736160088808168
+promedio;Grillo-Ballena, 5%;25;5;0,3;0,5895087058688306
+promedio;Grillo-Ballena, 7%;25;15;0,2;0,8950424831743652
+promedio;Grillo-Ballena, 10%;25;15;0,3;0,6201509746574546
+mejor caso;Grillo-Ballena, 1%;25;15;0,2;0,8181655781012273
+mejor caso;Grillo-Ballena, 2%;25;15;0,3;0,7797079917952744
+mejor caso;Grillo-Ballena, 3%;25;5;0,2;0,5375956883907927
+mejor caso;Grillo-Ballena, 5%;25;15;0,2;0,6524799400430067
+mejor caso;Grillo-Ballena, 7%;25;10;0,2;0,9642518113666548
+mejor caso;Grillo-Ballena, 10%;25;10;0,2;0,6876183022372316
+general;general;25;10;0,2;0,632346120904914
